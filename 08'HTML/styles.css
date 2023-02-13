@@ -1,0 +1,138 @@
+*{
+    background-color: rgba(250, 244, 244, 0.788);
+}
+
+#divClass{
+   background-color: blueviolet;
+   width:40%;
+   height: 40%;
+   padding: 5%;
+   margin: 5%;
+   justify-items: center;
+   border-radius: 1em;
+   -webkit-border-radius: 1em;
+   -moz-border-radius: 1em;
+   -ms-border-radius: 1em;
+   -o-border-radius: 1em;
+   border: 2px solid black;
+   
+}
+
+
+
+#book{
+    background: transparent;
+    position: absolute;
+    width: 15%;
+    height: 30%;
+    top: 0;
+    left: 35%;
+    justify-content: right;
+    border: none;
+
+}
+
+h1{
+  color: aliceblue;
+  background: none;
+}
+
+h2{
+    background: transparent;
+    color: white;
+    font-size: 25px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h3 { 
+    color: white;
+    background: none;
+}
+
+h4{
+    color: white;
+    background: none;
+}
+
+img{
+    border-radius: 1em ;
+    border-color: black;
+    width: 400px;
+    margin-top: 10% ;
+    -webkit-border-radius: 1em ;
+    -moz-border-radius: 1em ;
+    -ms-border-radius: 1em ;
+    -o-border-radius: 1em ;
+    border: 2px solid black;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    background-color: blueviolet;
+    
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 400px;
+    padding: 50px;
+    border: 5px;
+    margin: 0 auto;
+    border-radius: 1em;
+    border-color: black;
+    background-color: blueviolet;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    -ms-border-radius: 1em;
+    -o-border-radius: 1em;
+    position: absolute;
+    top: 11%;
+    left: 58%;
+    border: 2px solid black;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;  
+    background: none;
+    color: white;
+    position: absolute;
+    right: 65%;
+    left: 7%;
+    top: 85%;
+
+}
+
+#cocinando{
+    background: transparent;
+    width: 40%;
+    height: 80%;
+    margin-left: 63%;
+    border: none;
+}
+
+a{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.link{
+    text-decoration: none;
+    background: white;
+    border-radius: 2em;
+    top: 120%;
+    left: 16%;
+    position: absolute;
+    width: 12%;
+    height: 3%;
+    text-align: center;
+    
+}
+
